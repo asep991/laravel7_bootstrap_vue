@@ -10,9 +10,13 @@
 ## Cara install
 
     git clone https://github.com/asep991/laravel_bootstrap_vue.git
+    cd laravel_bootstrap_vue
     composer install
     cp .env.example .env
     php artisan key:generate
+    php artisan serve
+
+    kemudian buka http://localhost:8000 di web browser
 
 ## About Laravel
 
