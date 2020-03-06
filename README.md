@@ -18,6 +18,10 @@
 
     kemudian buka http://localhost:8000 di web browser
 
+## Review
+
+<img src="https://user-images.githubusercontent.com/35167552/76100961-2d083300-6000-11ea-9bc7-f01a07752804.png" alt="demo"></a>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
